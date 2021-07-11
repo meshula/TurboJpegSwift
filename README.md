@@ -10,4 +10,4 @@ References:
 - [https://www.reddit.com/r/SwiftUI/comments/ekt9yd/how_to_display_multiple_cgimagessecond_in_a/] How to display multiple CGImages/second in a SwiftUI view
 - [https://github.com/kean/DFJPEGTurbo/blob/master/DFJPEGTurbo/DFJPEGTurboImageDecoder.m] ObjC turbojpeg bindings
 - [https://developer.apple.com/documentation/swiftui/image/init(:scale:orientation:label:)] Image: Creates a labeled image based on a Core Graphics image instance, usable as content for controls
-
+- -[https://medium.com/flawless-app-stories/avplayer-swiftui-part-2-player-controls-c28b721e7e27] SwiftUI player controls
